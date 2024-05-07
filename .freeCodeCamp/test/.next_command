@@ -52,3 +52,4 @@ chmod +x student_indo.sh
 chmod +x student_info.sh
 ./student_info.sh
 ./student_info.sh
+./student_info.sh
